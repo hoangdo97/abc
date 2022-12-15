@@ -1,0 +1,8 @@
+Arrow func : rút gọn cách viết function bình thường 
+vd: var myFunc = function(num){
+    return num
+}
+Arrow func : var myFunc= num =>{
+    return num
+}
+
